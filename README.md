@@ -8,7 +8,7 @@ The software here contained is related to a scientific research providing a mode
 
 ## Structure of the repository
 The repository is structured in the following folders:
-* *[replication\cloudcom](replication/cloudcom/README.md)*: replication package for a scientific paper submitted to CLOUDCOM 2023.
+* *[replication/cloudcom](replication/cloudcom/README.md)*: replication package for a scientific paper submitted to CLOUDCOM 2023.
 
 ## License
 The software is licensed according to the GNU General Public License v3.0 (see License file).
