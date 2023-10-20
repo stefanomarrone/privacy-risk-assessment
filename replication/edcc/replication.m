@@ -1,12 +1,12 @@
 diary comparison.csv;
-cloudcom_comparison;
+comparison;
 diary off;
 clear;
 diary sensitivity.csv;
-cloudcom_sensitivity;
+sensitivity;
 diary off;
 clear;
 diary scalability.csv;
-cloudcom_scalability;
+scalability;
 diary off;
 clear;

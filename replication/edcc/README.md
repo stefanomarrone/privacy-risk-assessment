@@ -1,4 +1,4 @@
-# CLOUDCOM 23 - replication package
+# EDCC 24 - replication package
 
 ## Files
 The content of this replication package is the following:
@@ -6,13 +6,13 @@ The content of this replication package is the following:
 * *System.m*: class hiding the construction and the analysis of the entire system.
 * *visibility_fuzzy_reaoner.m*: functions creating the VFR for single attributes.
 * *severity_fuzzy_reasoner.m*: function creating the SFR for the entire approach.
-* *cloudcom_comparison.m*: script related to the first experiment contained in the paper.
-* *cloudcom_sensitivity.m*: script related to the second experiment contained in the paper.
-* *cloudcom_scalability.m*: script related to the third experiment contained in the paper.
+* *comparison.m*: script related to the first experiment contained in the paper.
+* *sensitivity.m*: script related to the second experiment contained in the paper.
+* *scalability.m*: script related to the third experiment contained in the paper.
 * *replication.m*: script collecting the previous three scripts and generating the three CSV files in output containting the data reported in the paper.
 
 ## Prerequisites
-This software is build using Matlab R2023a, licensed to Università della Campania "Luigi Vanvitelli"upon the following software libraries. The tools use the Fuzzy Logic Toolbox v.3.1.
+This software is build using Matlab R2023a, licensed to Universita' della Campania "Luigi Vanvitelli". The tools use the Fuzzy Logic Toolbox v.3.1.
 
 ## How to run
 To replicate the results of the research:
